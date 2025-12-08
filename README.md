@@ -77,7 +77,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">InfraSight</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/infrasight">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=InfraSight+Dashboard" alt="InfraSight" width="100%" />
+          <img src="./assets/infrasight-dashboard.png" alt="InfraSight" width="100%" />
         </a>
       </p>
       <p><b>Cloud Cost Intelligence Platform</b></p>
@@ -97,7 +97,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">TalkifyDocs</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/talkifydocs">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=TalkifyDocs+Chat+UI" alt="TalkifyDocs" width="100%" />
+          <img src="./assets/talkifydocs-chat.png" alt="TalkifyDocs" width="100%" />
         </a>
       </p>
       <p><b>AI Document Assistant (SaaS)</b></p>
@@ -116,7 +116,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">MelodyHub</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/MelodyHub">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=MelodyHub+Interface" alt="MelodyHub" width="100%" />
+          <img src="./assets/melodyhub-interface.png" alt="MelodyHub" width="100%" />
         </a>
       </p>
       <p><b>Real-Time Social Music Platform</b></p>
@@ -133,7 +133,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">Disease Prediction ML</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/ml-disease-prediction-system">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=Disease+Prediction+UI" alt="Disease Prediction" width="100%" />
+          <img src="./assets/disease-prediction-ui.png" alt="Disease Prediction" width="100%" />
         </a>
       </p>
       <p><b>Clinical Decision Support System</b></p>
@@ -157,7 +157,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">Audio Classification CNN</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/audio-classification-cnn">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=Audio+Spectrograms" alt="Audio CNN" width="100%" />
+          <img src="./assets/audio-classification-cnn.png" alt="Audio CNN" width="100%" />
         </a>
       </p>
       <p><b>Deep Learning for Animal Sound Classification</b></p>
@@ -174,7 +174,7 @@ I'm Abhiyan — a CS grad student at GWU who loves turning coursework into real 
       <h3 align="center">Multi-Source Retrieval</h3>
       <p align="center">
         <a href="https://github.com/aabhiyann/Conversational-Interface-for-Multi-Source-Information-Retrieval">
-          <img src="https://via.placeholder.com/500x300/1e293b/58a6ff?text=RAG+Interface" alt="Retrieval System" width="100%" />
+          <img src="./assets/multi-source-retrieval.png" alt="Retrieval System" width="100%" />
         </a>
       </p>
       <p><b>NLP Retrieval System</b></p>
