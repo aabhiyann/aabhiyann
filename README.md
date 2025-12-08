@@ -1,131 +1,169 @@
-<!-- Profile Header -->
+<!-- HEADER -->
+
 <h1 align="center">Hey, I'm Abhiyan 👋</h1>
 <h3 align="center">
-👨‍💻 CS Grad Student @ George Washington University · Building Cloud + ML Projects for Real-World Impact
+CS Grad @ GWU · Full-Stack & ML Engineer · I turn ideas into shipping products
 </h3>
 
 <p align="center">
-  <a href="mailto:sainjuabhiyan321@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/aabhiyann" target="_blank">GitHub</a>
+  <a href="mailto:aabhiyansainju@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/abhiyansainju">LinkedIn</a> •
+  <a href="https://github.com/aabhiyann">GitHub</a> •
+  <a href="https://www.instagram.com/abhiyan_sainju">Instagram</a> •
+  <a href="https://www.instagram.com/abhiyan.sainju">Photo IG</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Fast Pass (for recruiters & busy engineers)
 
-- 🎓 **M.S. in Computer Science @ The George Washington University** (Expected Dec 2025)  
-- 🧠 TA / Grader for **Design & Analysis of Algorithms (CSCI 6212)**  
-- 💼 Actively looking for roles in:
-  - **Software Engineering**
-  - **ML / AI Engineering**
-  - **Data / Analytics Engineering**
-  - **Cloud & Backend Engineering**
-- 🧩 I love turning **course theory** (algorithms, ML, cloud, OOD) into **portfolio projects** that feel like real products.
+- 🎓 **M.S. Computer Science @ George Washington University** — graduating **Dec 2025**
+- 👨‍🏫 **Graduate TA** for *Design & Analysis of Algorithms* (CSCI 6212)
+- 💼 Interested in: **Backend / Full-Stack · ML / AI · Data · Cloud**
+- 🧱 Core stack: **Python · FastAPI · React+TS · PostgreSQL · Docker · AWS · scikit-learn**
+- 🧪 Recent focus: **cloud cost intelligence, RAG apps, real-time music platform, ML-in-prod**
 
-Right now, I’m focused on building **production-style apps** with real APIs, databases, ML models, and dashboards that I can proudly show to recruiters and hiring managers.
+**If you're hiring:**  
+👉 Check out **InfraSight**, **TalkifyDocs**, and **MelodyHub** in the projects section below.  
+👉 Best contact: **[Email](mailto:aabhiyansainju@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/abhiyansainju)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Brand Story
+
+I’m Abhiyan — a CS grad student who:
+
+- Loves taking stuff from **class (algorithms, ML, cloud, OOD)** and making it look like it belongs in a **real product**.
+- Enjoys **deep dives** (ML pipelines, data modeling, infra) but also cares about **polish** (clean APIs, docs, thoughtful UI).
+- Splits time between:
+  - Teaching & grading algorithms,
+  - Building full-stack apps with ML,
+  - And sometimes looking at the world through a **camera lens** instead of a terminal.
+
+My GitHub is basically my **lab notebook** + **portfolio**: projects that could plausibly be used by a real team, not just “HW3 final version (final-final).ipynb”.
+
+---
+
+## 🛠 Skills & Tools
 
 ### Languages
-- **Python**, **Java**, **C++**, **JavaScript / TypeScript**, **SQL**
+`Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `SQL` · `HTML/CSS`
 
-### Backend / APIs
-- **FastAPI**, **Node.js / Express**, **REST APIs**
-- **PostgreSQL**, **MongoDB**
-- **SQLAlchemy**, **Pydantic**
+### Backend & APIs
+`FastAPI` · `Node.js` · `Express` · `REST` · `JWT Auth`  
+`PostgreSQL` · `MongoDB` · `MySQL` · `SQLAlchemy` · `Prisma` · `Pydantic`
 
 ### Frontend
-- **React + TypeScript**
-- **Vite**
-- Basic data visualization with **Recharts / Plotly / D3 (learning)**
+`React` · `Next.js` · `TypeScript` · `Vite` · `Tailwind CSS`  
+`Recharts` · (learning) `Plotly` / `D3` for data viz
 
 ### ML / Data
-- Classical ML (clustering, anomaly detection, regression)
-- **Deep learning (CNNs for audio classification)**
-- **Pandas**, **NumPy**, **scikit-learn**
-- Forecasting, cost anomaly detection, and basic statistics
+`Pandas` · `NumPy` · `scikit-learn` · `Keras / TensorFlow`  
+Clustering · Anomaly Detection · Forecasting · Random Forests · LSTMs  
+`LangChain` · `FAISS` · `Pinecone` for RAG & retrieval
 
-### DevOps / Tools
-- **Docker**
-- **AWS** (Cost Explorer, billing data, basic cloud concepts)
-- **Git & GitHub**, **GitHub Actions (CI with pytest)**
-- **Postman**, **Linux / CLI**, **VS Code**
+### DevOps / Cloud / Other
+`AWS` (Cost Explorer, EC2, S3, IAM basics) · `Docker`  
+`Git & GitHub` · `GitHub Actions` (pytest CI) · `Postman` · `Linux`  
+`UML` · `OOP / Design Patterns` · `Agile` / project structuring
 
 ---
 
-## 📈 Highlight Projects
+##  Featured Projects 
 
-> These are the kinds of projects I want recruiters to notice first.
+> **Idea:** For each project, you can add a small screenshot to make this section pop.  
+> Store images in your repo (e.g. `assets/infrasight.png`) and update the `src` links.
 
-### 🔍 InfraSight – Cloud Cost Intelligence Platform
-**Stack:** FastAPI · React + TS · PostgreSQL · Docker · AWS · scikit-learn  
+### 🔍 InfraSight — Cloud Cost Intelligence Platform  
+**Stack:** FastAPI · React+TS · PostgreSQL · Docker · AWS · scikit-learn  
 
-- End-to-end **cloud cost optimizer** that analyzes AWS billing data.
-- Backend: FastAPI APIs for **cleaned costs, forecasts, anomalies, clustering, and ML-based recommendations**.
-- ML: KMeans clustering, anomaly detection, and per-service cost forecasting with confidence intervals.
-- DB: **PostgreSQL** with async SQLAlchemy for logging and user auth.
-- Frontend: React dashboard with:
-  - Overview charts (top services, heatmaps, timelines)
-  - Forecast & anomaly visualizations
-  - Logs page with full CRUD and filters
-  - Authentication (JWT, protected routes)
-- CI: GitHub Actions workflow running pytest on every push/PR.
+<p align="center">
+  <!-- Replace with your actual image path -->
+  <img src="https://via.placeholder.com/800x400?text=InfraSight+Dashboard" alt="InfraSight dashboard preview" />
+</p>
 
-> _Goal: Showcase real-world skills for backend, ML, and full-stack roles._
+- Full-stack **cloud cost intelligence** app for AWS billing.
+- ML pipelines for **forecasting**, **anomaly detection**, and **clustering** services.
+- Backend:
+  - FastAPI with clean, modular route structure.
+  - Async PostgreSQL via SQLAlchemy.
+  - JWT-based auth, logging, and robust error handling.
+- Frontend:
+  - React + TypeScript dashboard.
+  - Time-series charts, anomaly markers, top services bar charts, service filters.
+  - Auth-protected pages & a full **Logs** CRUD UI.
+- CI/CD: GitHub Actions running tests on each push/PR.
+
+🔗 `Repo:` _add link here_  
 
 ---
 
-### 🎵 MelodyHub – OOD-Driven Music & Chat Platform
-**Stack:** Node.js · MongoDB · OOP / UML Design  
+### 📄 TalkifyDocs — AI SaaS for “Chat with Your Docs”  
+**Stack:** Next.js · TypeScript · OpenAI · LangChain · Pinecone · Stripe · Prisma  
 
-- Spotify-style **music streaming + chat** application.
-- Designed using full **Object-Oriented Design**:
-  - UML Use Case, Class, Sequence, Activity, State, Component diagrams.
-  - Clean separation into **Interface, Control, and Entity** layers.
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=TalkifyDocs+UI" alt="TalkifyDocs UI preview" />
+</p>
+
+- RAG-powered SaaS where users upload docs and chat with them.
+- **LangChain + Pinecone** for semantic search over large document sets.
+- Integrated **Stripe** billing for subscription tiers.
+- Built with a production mindset: auth, usage limits, and safety checks.
+- Great example of **LLM product engineering**, not just a demo notebook.
+
+🔗 `Repo:` _add link here_  
+
+---
+
+### 🎵 MelodyHub — Real-Time Social Music & Chat Platform  
+**Stack:** Node.js · React · Socket.IO · MongoDB · OOP / UML  
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=MelodyHub" alt="MelodyHub app preview" />
+</p>
+
+- Spotify-style **music + chat** app with real-time rooms.
+- Designed with **Object-Oriented Design**:
+  - Full UML: Use Case, Class, Sequence, Activity, State diagrams.
+  - Separation into Interface / Control / Entity layers.
 - Features:
-  - **Listeners**: stream music, create playlists, interact with Artists.
-  - **Artists**: upload songs, manage content, engage with listeners.
-- Used for an **OOD course final project** with a strong focus on UML and best practices.
+  - Listeners stream music & create playlists.
+  - Artists upload tracks & engage with listeners.
+  - Real-time chat via Socket.IO.
 
-> _Goal: Demonstrate solid OOP design, architecture, and maintainable backend structure._
-
----
-
-### 🎙️ Audio Classification CNN – “Dog / Cat / Bird”
-**Stack:** Python · Deep Learning (CNNs) · Mel-spectrograms  
-
-- Built a complete pipeline that takes **1-second audio clips** of people saying “dog”, “cat”, or “bird”.
-- Converted raw waveforms → **Mel-spectrograms** (2D images: frequency vs time).
-- Trained several **CNN architectures** to classify the spectrograms.
-- Explored:
-  - Train/validation/test splits
-  - Regularization (dropout, early stopping)
-  - Model comparison and generalization
-
-> _Goal: Show applied deep learning skills beyond standard image datasets._
+🔗 `Repo:` _add link here_  
 
 ---
 
-### 🤝 Other Projects (In Progress / Planned)
-- **VolunTier** – Hyper-local volunteer matching platform using geodata.
-- **TalkifyDocs** – Chat with your documents SaaS concept.
-- **QueryVault** – SQL performance tuning playground.
-- **MoodMosaic** – AI-curated playlists from journaling text.
+### 🧠 Disease Prediction Using Machine Learning  
+**Stack:** Python · scikit-learn · React · Tailwind  
+
+- Clinical prediction app using **Random Forest** on thousands of records.
+- 98%+ accuracy on held-out evaluation data.
+- Clean React frontend where users pick symptoms and get likely diseases.
+- Strong example of **end-to-end applied ML** + usable UI.
+
+🔗 `Repo:` _add link here_  
 
 ---
 
-## 📚 Academics & Teaching
+### 🔎 Multi-Source Retrieval Interface (YouTube, PDFs, Audio)  
+**Stack:** Python · GPT APIs · Mistral · FAISS  
 
-- 👨‍🏫 **Graduate Teaching Assistant / Grader**
-  - Course: **Design & Analysis of Algorithms (CSCI 6212)**
-  - Responsibilities:
-    - Grading proofs and algorithm design questions.
-    - Providing feedback and clarifications to students.
-    - Coordinating with faculty on exam design and homework rubrics.
+- Query across **PDFs, YouTube transcripts, and audio** from one interface.
+- Hybrid of LLMs + vector search to make research significantly faster.
+- Optional offline mode with smaller models (e.g. Mistral) for privacy-sensitive contexts.
 
+🔗 `Repo:` _add link here_  
+
+---
+
+## 🎓 Teaching & Academics
+
+- 👨‍🏫 **Graduate Teaching Assistant – Design & Analysis of Algorithms (CSCI 6212)**  
+  I help grad students reason about:
+  - Greedy vs DP, graph algorithms, NP-completeness.
+  - Turning proofs & pseudocode into actual, working code.
 - 🧠 Relevant coursework:
   - Neural Networks & Deep Learning
   - Machine Learning
@@ -137,54 +175,47 @@ Right now, I’m focused on building **production-style apps** with real APIs, d
 
 ---
 
-## 🌱 Currently Learning
+## 📸 Beyond Code: Photography
 
-- Making ML models **production-ready** (APIs, monitoring, visualizations).
-- Building **React + TypeScript** dashboards that feel like real internal tools.
-- More **AWS** (beyond billing) and **DevOps best practices**.
-- Clean architecture patterns and scaling full-stack apps.
+When I’m not optimizing queries or wrestling with models, I’m probably:
 
----
+- Walking around with a camera,
+- Chasing light & shadows instead of bugs & stack traces.
 
-## 🤝 Open To
+If you like visual storytelling:
 
-- Collaborating on **ML, backend, or full-stack** side projects.
-- Contributions to **open-source tools** related to:
-  - Cloud cost management
-  - Developer tooling
-  - Data visualization
-- Internship / new grad opportunities in **SWE / ML / Data / Cloud** roles.
-
-If you think my profile matches something you're building, feel free to reach out!
+- 🌐 **Main IG:** [@abhiyan_sainju](https://www.instagram.com/abhiyan_sainju/)
+- 📷 **Photo IG:** [@abhiyan.sainju](https://www.instagram.com/abhiyan.sainju/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Dev Activity & Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=aabhiyann&show_icons=true&theme=transparent"
-    alt="Abhiyan's GitHub stats"
+    alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=aabhiyann&theme=transparent"
-    alt="GitHub Streak"
+    alt="GitHub streak"
   />
 </p>
 
-<!-- Optional: Top languages card (can be misleading for small repos, so enable if you like it)
+<!-- Optional: Uncomment if you want a languages card (can be noisy) -->
+<!--
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabhiyann&layout=compact&theme=transparent"
-    alt="Top Languages"
+    alt="Top languages"
   />
 </p>
 -->
 
 ---
 
-Thanks for stopping by 🙌  
-I’m always down to talk about **projects, ML, cloud, or job hunting in 2025’s cursed market** 😂
+Thanks for scrolling all the way down 🙌  
+Whether you’re a recruiter, engineer, or just wandering dev, feel free to say hi!
