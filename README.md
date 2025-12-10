@@ -24,9 +24,17 @@ Credits & inspiration:
   📸 <a href="https://www.instagram.com/abhiyan.sainju">Photography</a>
 </p>
 
+<p align="center">
+  <a href="#fast-pass-for-busy-recruiters">Fast Pass</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#tech-stack">Skills</a> •
+  <a href="#experience-highlights">Experience</a> •
+  <a href="#lets-connect">Contact</a>
+</p>
+
 ---
 
-## ⚡ Fast Pass (for busy recruiters)
+## Fast Pass (for busy recruiters)
 
 > **TL;DR:** CS grad with 4.0 GPA at GWU, graduating **Dec 2025**. I build production-ready ML/cloud apps — not just notebooks. Check the projects below, then let's talk.
 
@@ -40,9 +48,11 @@ Credits & inspiration:
 
 **Actively seeking:** Full-time **Software Engineer / ML Engineer** roles starting **Jan 2026**
 
+📬 **Best way to reach me:** [Email](mailto:aabhiyansainju@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhiyansainju)
+
 ---
 
-## � About Me
+## About Me
 
 ```javascript
 const abhiyan = {
@@ -68,7 +78,7 @@ const abhiyan = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nextjs,nodejs,fastapi&theme=light)](https://skillicons.dev)
@@ -109,145 +119,154 @@ const abhiyan = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-> **Note:** Screenshots coming soon! In the meantime, check out the repos for full docs, demos, and architecture details.
+> **💡 Tip:** Screenshots coming soon! In the meantime, check out the repos for full docs, demos, and architecture details.  
+> **📌 Note:** Don't forget to check my [Pinned Repositories](https://github.com/aabhiyann?tab=repositories) below for more projects!
+
+### Production-Ready Applications
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏗️ InfraSight</h3>
-      <p align="center">
+      <h3 align="center">InfraSight</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/infrasight">
           <img src="./assets/infrasight-dashboard.png" alt="InfraSight" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>Cloud Cost Intelligence Platform</b></p>
       <p>Full-stack ML app that cuts AWS billing analysis time by <b>70%</b>. Forecasting, anomaly detection, and cost clustering for DevOps/finance teams managing $10K+ monthly budgets.</p>
       <p><b>Impact:</b></p>
       <ul>
-        <li>92% prediction accuracy (Random Forest + LSTM)</li>
-        <li>Catches cost spikes before billing cycles</li>
-        <li>Enterprise-ready with Docker + JWT auth</li>
+        <li>✅ 92% prediction accuracy (Random Forest + LSTM)</li>
+        <li>✅ Catches cost spikes before billing cycles</li>
+        <li>✅ Enterprise-ready with Docker + JWT auth</li>
       </ul>
       <p><b>Tech:</b> Python · FastAPI · PostgreSQL · scikit-learn · Docker · React · JWT</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/infrasight">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://github.com/aabhiyann/infrasight">
           <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 TalkifyDocs</h3>
-      <p align="center">
+      <h3 align="center">TalkifyDocs</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/talkifydocs">
           <img src="./assets/talkifydocs-chat.png" alt="TalkifyDocs" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>AI Document Assistant (SaaS)</b></p>
       <p>Enterprise RAG app that processes documents <b>47% faster</b> than manual review. Chat with your PDFs using GPT-4, tested with 10 beta users from research firms.</p>
       <p><b>Impact:</b></p>
       <ul>
-        <li>Sub-200ms query responses on 10GB+ repos</li>
-        <li>94% accuracy in document parsing</li>
-        <li>Full SaaS: Auth, billing (Stripe), subscriptions</li>
+        <li>✅ Sub-200ms query responses on 10GB+ repos</li>
+        <li>✅ 94% accuracy in document parsing</li>
+        <li>✅ Full SaaS: Auth, billing (Stripe), subscriptions</li>
       </ul>
       <p><b>Tech:</b> Next.js · OpenAI GPT-4 · LangChain · Pinecone · Stripe · TypeScript · Prisma</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/talkifydocs">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 MelodyHub</h3>
-      <p align="center">
+      <h3 align="center">MelodyHub</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/MelodyHub">
           <img src="./assets/melodyhub-interface.png" alt="MelodyHub" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>Real-Time Social Music Platform</b></p>
       <p>Spotify-meets-Discord: synchronized music streaming with live chat. Supports <b>100+ concurrent users</b> with 99.2% uptime during 2-month beta.</p>
       <p><b>Impact:</b></p>
       <ul>
-        <li>Led 3-person Agile team</li>
-        <li>Sub-3-second song loading (any network)</li>
-        <li>OOP architecture → 60% faster feature dev</li>
+        <li>✅ Led 3-person Agile team</li>
+        <li>✅ Sub-3-second song loading (any network)</li>
+        <li>✅ OOP architecture → 60% faster feature dev</li>
       </ul>
       <p><b>Tech:</b> Node.js · React · Socket.IO · Clerk Auth · Cloudinary · MongoDB</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/MelodyHub">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Disease Prediction ML</h3>
-      <p align="center">
+      <h3 align="center">Disease Prediction ML</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/ml-disease-prediction-system">
           <img src="./assets/disease-prediction-ui.png" alt="Disease Prediction" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>Clinical Decision Support System</b></p>
       <p>Random Forest classifier on 4,920 medical records achieving <b>98.7% diagnostic accuracy</b>. React UI designed for telemedicine deployment in rural Nepal.</p>
       <p><b>Impact:</b></p>
       <ul>
-        <li>131 symptoms, 41 disease classes</li>
-        <li>Robust preprocessing pipeline</li>
-        <li>Planned SHAP for explainable AI (FDA pathway)</li>
+        <li>✅ 131 symptoms, 41 disease classes</li>
+        <li>✅ Robust preprocessing pipeline</li>
+        <li>✅ Planned SHAP for explainable AI (FDA pathway)</li>
       </ul>
       <p><b>Tech:</b> Python · scikit-learn · React · Tailwind CSS · Pandas · Jupyter</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/ml-disease-prediction-system">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
 
-### 🧪 ML/AI Research Projects
+### ML/AI Research Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔊 Audio Classification CNN</h3>
-      <p align="center">
+      <h3 align="center">Audio Classification CNN</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/audio-classification-cnn">
           <img src="./assets/audio-classification-cnn.png" alt="Audio CNN" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>Deep Learning for Animal Sounds</b></p>
       <p>Built CNN achieving <b>92% accuracy</b> on dog/cat/bird audio clips. Explored CRNN, ViT, and transfer learning (YAMNet) architectures.</p>
       <p><b>Key Finding:</b> Task-specific CNN trained from scratch <b>outperformed transfer learning by 26%</b> — showing pre-trained models aren't always better.</p>
       <p><b>Tech:</b> TensorFlow · Keras · librosa · Mel-spectrograms · YAMNet · scikit-learn</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/audio-classification-cnn">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Multi-Source Retrieval</h3>
-      <p align="center">
+      <h3 align="center">Multi-Source Retrieval</h3>
+      <div align="center">
         <a href="https://github.com/aabhiyann/Conversational-Interface-for-Multi-Source-Information-Retrieval">
           <img src="./assets/multi-source-retrieval.png" alt="Retrieval System" width="100%" />
         </a>
-      </p>
+      </div>
+      <br>
       <p><b>NLP Retrieval System</b></p>
       <p>RAG system integrating GPT-3.5 + FAISS that reduced research query times by <b>70%</b>. Processes PDFs, YouTube transcripts, and audio files.</p>
       <p><b>Impact:</b> Offline Mistral integration expanded reach by 40% for privacy-sensitive orgs (law firms, hospitals).</p>
       <p><b>Tech:</b> Python · GPT-3.5-turbo · Mistral 7B · FAISS · LangChain · NLP</p>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/aabhiyann/Conversational-Interface-for-Multi-Source-Information-Retrieval">
-          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-      </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -256,52 +275,55 @@ const abhiyan = {
 <summary><b>🔬 More Projects (click to expand)</b></summary>
 <br>
 
+**Blockchain & Systems:**
 - **[SupplyBlock](https://github.com/aabhiyann/SupplyBlock)** — Blockchain-based supply chain tracking system
-- **Other experiments** — Check out my repositories for smaller projects and experiments
+
+**Experiments & Learning:**
+- Check out my [repositories](https://github.com/aabhiyann?tab=repositories) for smaller projects, course assignments, and experiments
 
 </details>
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
-### 👨‍🏫 Graduate Teaching Assistant — GWU
-**Design & Analysis of Algorithms (CSCI 6212)** | *Aug 2024 - Present*
+### Graduate Teaching Assistant — George Washington University
+**Design & Analysis of Algorithms (CSCI 6212)** | *Aug 2024 - Present* | *Washington, DC*
 
-- Teaching 60+ grad students DP, graph algorithms, and NP-completeness
-- Designed interactive tutorials → **22% midterm score improvement**
-- Led TA training: onboarded 8 TAs, reduced training time **2 weeks → 4 days**
+- Teaching 60+ grad students dynamic programming, graph algorithms, and NP-completeness
+- Designed interactive tutorials translating theory into industry case studies → **22% midterm score improvement**
+- Led TA training program: onboarded 8 new TAs, reduced training time from **2 weeks → 4 days**
 
-### 💻 Software Development Intern — ECS Tech
-**Fintech Platform** | *Jun - Sep 2023*
+### Software Development Intern — ECS Tech
+**Fintech Platform Development** | *Jun 2023 - Sep 2023* | *Lalitpur, Nepal*
 
-- Shipped 7 production features (React, Node.js, PostgreSQL) for 1,200+ users
-- Built booking system → **89% fewer scheduling conflicts** (saved 15hrs/week)
-- Performance optimization → **43% load time improvement**, conversion up 12% → 16%
+- Shipped 7 production features (React, Node.js, PostgreSQL) for 1,200+ active users
+- Built automated booking system → eliminated **89% of scheduling conflicts** (saved 15hrs/week for support)
+- Led performance optimization → **43% load time improvement**, conversion rates increased **12% → 16%**
 
-### 🔧 IT Solutions Lead — Intel Security
-**Digital Transformation** | *Aug 2022 - Mar 2023*
+### IT Solutions Lead — Intel Security Service Pvt. Ltd.
+**Digital Transformation & Infrastructure** | *Aug 2022 - Mar 2023* | *Kathmandu, Nepal*
 
-- Rebuilt website → **73% increase in qualified leads**, $35K new contracts (Q1)
-- Managed $12K IT budget, **40% cost reduction**
-- Trained 25-person team → **80% reduction in support tickets**
+- Rebuilt legacy website into lead-gen platform → **73% increase in qualified leads**, $35K new contracts (Q1)
+- Managed $12K annual IT budget as sole technical decision-maker → **40% operational cost reduction**
+- Trained 25-employee team, developed documentation → **80% reduction in external support tickets**
 
 ---
 
-## 🎓 Education
+## Education
 
 **George Washington University** — *Washington, DC*  
-M.S. Computer Science | **GPA: 4.0/4.0** | Jan 2024 - Dec 2025
+Master of Science in Computer Science | **GPA: 4.0/4.0** | *Jan 2024 - Dec 2025*
 
 **Relevant Coursework:**  
 Neural Networks & Deep Learning · Machine Learning · Cloud Computing · Software Engineering · Object-Oriented Design · Database Systems · Design & Analysis of Algorithms
 
 **St. Xavier's College** — *Kathmandu, Nepal*  
-B.S. Computer Science & IT | **GPA: 3.89/4.0** | Aug 2018 - Dec 2022
+Bachelor of Science in Computer Science & Information Technology | **GPA: 3.89/4.0** | *Aug 2018 - Dec 2022*
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aabhiyann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
@@ -322,11 +344,11 @@ B.S. Computer Science & IT | **GPA: 3.89/4.0** | Aug 2018 - Dec 2022
 
 ---
 
-## 🌱 Currently Learning & Open To
+## Currently Learning & Open To
 
 **🔭 Currently working on:**
 - Graduating from GWU (Dec 2025)
-- Teaching algorithms to graduate students
+- Teaching algorithms to 60+ graduate students
 - Building ML-powered cloud applications
 
 **🌱 Currently learning:**
@@ -334,12 +356,12 @@ B.S. Computer Science & IT | **GPA: 3.89/4.0** | Aug 2018 - Dec 2022
 - Kubernetes for container orchestration
 - System design for ML at scale
 
-**� Ask me about:**
+**💬 Ask me about:**
 - Building RAG applications from scratch
 - ML model deployment and monitoring
 - Full-stack development with React/FastAPI
 - Teaching algorithms and data structures
-- Photography and creative outlets
+- Photography and creative outlets for engineers
 
 **👯 Looking to collaborate on:**
 - Open-source ML/AI projects
@@ -348,7 +370,7 @@ B.S. Computer Science & IT | **GPA: 3.89/4.0** | Aug 2018 - Dec 2022
 
 ---
 
-## �📸 Beyond Code
+## Beyond Code
 
 When I'm not debugging or training models, I'm behind a camera capturing people, streets, and details most folks scroll past.
 
@@ -365,52 +387,79 @@ When I'm not debugging or training models, I'm behind a camera capturing people,
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
-**Role:** Software Engineer (Backend/Full-Stack) · ML/AI Engineer · Cloud/Data Engineer  
-**Start Date:** January 2026 (graduating Dec 2025)  
-**Location:** US-based or remote-friendly
-
-**What I bring to your team:**
-
-✅ **Ship fast, iterate smart** — Production-ready prototypes, not just Jupyter notebooks  
-✅ **End-to-end ownership** — Requirements → API design → ML pipelines → deployment  
-✅ **Technical storytelling** — Explain complex systems to engineers, PMs, and non-technical stakeholders
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎯 Target Roles</h3>
+      <ul>
+        <li>Software Engineer (Backend/Full-Stack)</li>
+        <li>ML/AI Engineer</li>
+        <li>Cloud/Data Engineer</li>
+      </ul>
+      <p><b>Start Date:</b> January 2026 (graduating Dec 2025)<br>
+      <b>Location:</b> US-based or remote-friendly</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>✨ What I Bring</h3>
+      <ul>
+        <li><b>Ship fast, iterate smart</b> — Production prototypes, not just notebooks</li>
+        <li><b>End-to-end ownership</b> — From requirements to deployment</li>
+        <li><b>Technical storytelling</b> — Bridge technical and non-technical stakeholders</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 **Work I love:**
-
 - Turning messy requirements into clean APIs and useful dashboards
 - Building ML-driven features: anomaly detection, recommendations, forecasting
 - Optimizing systems: queries, pipelines, cost efficiency
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:aabhiyansainju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abhiyansainju">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/aabhiyann">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/abhiyan_sainju">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <br/>
-  <i>Thanks for stopping by! Whether you're a recruiter, engineer, or just a curious dev — feel free to reach out.</i>
-  <br/><br/>
-  <b>✨ Currently open to Full-Time Software/ML Engineering roles starting Jan 2026 ✨</b>
+  <table>
+    <tr>
+      <td align="center">
+        <b>📧 Best Contact Method</b><br>
+        Email or LinkedIn
+      </td>
+      <td align="center">
+        <b>⏱️ Response Time</b><br>
+        Usually within 24 hours
+      </td>
+      <td align="center">
+        <b>🕐 Time Zone</b><br>
+        EST (Washington, DC)
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" />
+  <br>
+  <i>Thanks for stopping by! Whether you're a recruiter, engineer, or just a curious dev — feel free to reach out.</i>
+  <br><br>
+  <b>✨ Currently open to Full-Time Software/ML Engineering roles starting Jan 2026 ✨</b>
 </div>
