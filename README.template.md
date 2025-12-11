@@ -326,17 +326,7 @@ Bachelor of Science in Computer Science & Information Technology | **GPA: 3.89/4
 ## GitHub Stats & Activity
 
 <!-- START_SECTION:stats -->
-
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aabhiyann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aabhiyann&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabhiyann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
-</div>
-
+{{ STATS_SECTION }}
 <!-- END_SECTION:stats -->
 
 ---
