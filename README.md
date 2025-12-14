@@ -334,11 +334,6 @@ Bachelor of Science in Computer Science & Information Technology | **GPA: 3.89/4
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aabhiyann&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
-
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabhiyann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
 </div>
 
