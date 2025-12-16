@@ -34,7 +34,7 @@ Credits & inspiration:
 
 ---
 
-## Fast Pass
+## Fast Pass (for busy recruiters)
 
 > **TL;DR:** CS grad with 4.0 GPA at GWU, graduating **Dec 2025**. I build production-ready ML/cloud apps — not just notebooks. Check the projects below, then let's talk.
 
