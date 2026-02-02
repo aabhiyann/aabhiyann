@@ -6,7 +6,7 @@ Credits & inspiration:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abhiyan+%F0%9F%91%8B;CS+Grad+%40+GWU+%7C+Dec+2025;Building+ML-Powered+Products;Cloud+%2B+Full-Stack+%2B+AI%2FML;Always+Shipping%2C+Always+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Abhiyan+%F0%9F%91%8B;CS+Graduate+%40+GWU+%7C+Dec+2025;Building+ML-Powered+Products;Cloud+%2B+Full-Stack+%2B+AI%2FML;Always+Shipping%2C+Always+Learning" alt="Typing animation" />
 </div>
 
 <h3 align="center">
@@ -36,7 +36,7 @@ Credits & inspiration:
 
 ## Fast Pass (for busy recruiters)
 
-> **TL;DR:** CS grad with 4.0 GPA at GWU, graduating **Dec 2025**. I build production-ready ML/cloud apps — not just notebooks. Check the projects below, then let's talk.
+> **TL;DR:** Recent CS graduate with 4.0 GPA from GWU (Dec 2025). I build production-ready ML/cloud apps — not just notebooks. Check the projects below, then let's talk.
 
 **What I bring:**
 - **5 shipped projects** with real users/beta testers (InfraSight, TalkifyDocs, MelodyHub)
@@ -46,7 +46,7 @@ Credits & inspiration:
 **Core Stack:**  
 `Python` · `FastAPI` · `React/Next.js` · `TypeScript` · `PostgreSQL` · `MongoDB` · `Docker` · `AWS` · `scikit-learn` · `TensorFlow` · `LangChain`
 
-**Actively seeking:** Full-time **Software Engineer / ML Engineer** roles starting **Jan 2026**
+**Actively seeking:** Full-time **Software Engineer / ML Engineer** roles (available immediately)
 
 📬 **Best way to reach me:** [Email](mailto:aabhiyansainju@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhiyansainju)
 
@@ -57,12 +57,12 @@ Credits & inspiration:
 ```javascript
 const abhiyan = {
   education: "M.S. Computer Science @ GWU (4.0 GPA)",
-  graduating: "December 2025",
+  graduated: "December 2025",
   role: "Graduate TA for Algorithms",
   passion: ["Building end-to-end ML apps", "Shipping real products", "Teaching complex concepts"],
   currentFocus: ["Cloud cost intelligence", "RAG-powered apps", "ML in production"],
   funFact: "I debug code and photograph the world 📸",
-  openTo: "Full-time Software/ML Engineering roles (Jan 2026)"
+  openTo: "Full-time Software/ML Engineering roles (available immediately)"
 };
 ```
 
@@ -73,7 +73,7 @@ const abhiyan = {
 
 **Beyond code:**
 - 👨‍🏫 Teaching algorithms to 60+ grad students
-- 📸 Framing the world through a lens ([see my work](https://www.instagram.com/abhiyan.sainju/))
+- 📸 Framing the world through a lens ([see my work](https://abhiyansainju.com/photography) | [Instagram](https://www.instagram.com/abhiyan.sainju/))
 - 🎯 Shipping fast — iterate on live products, not perfect prototypes
 
 ---
@@ -149,7 +149,7 @@ const abhiyan = {
         <a href="https://github.com/aabhiyann/infrasight">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://github.com/aabhiyann/infrasight">
+        <a href="https://infrasight.netlify.app/">
           <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
         </a>
       </div>
@@ -175,6 +175,9 @@ const abhiyan = {
         <a href="https://github.com/aabhiyann/talkifydocs">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+        <a href="https://talkifydocs.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
       </div>
     </td>
   </tr>
@@ -188,7 +191,7 @@ const abhiyan = {
       </div>
       <br>
       <p><b>Real-Time Social Music Platform</b></p>
-      <p>Spotify-meets-Discord: synchronized music streaming with live chat. Supports <b>100+ concurrent users</b> with 99.2% uptime during 2-month beta.</p>
+      <p>Spotify-meets-Discord: synchronized music streaming with live chat. Served <b>100+ beta users during 2-month trial</b> at GWU with 99.2% uptime.</p>
       <p><b>Impact:</b></p>
       <ul>
         <li>✅ Led 3-person Agile team</li>
@@ -199,6 +202,9 @@ const abhiyan = {
       <div align="center">
         <a href="https://github.com/aabhiyann/MelodyHub">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://udaymelodyhhub.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-4285F4?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </div>
     </td>
@@ -313,7 +319,7 @@ const abhiyan = {
 ## Education
 
 **George Washington University** — *Washington, DC*  
-Master of Science in Computer Science | **GPA: 4.0/4.0** | *Jan 2024 - Dec 2025*
+Master of Science in Computer Science | **GPA: 4.0/4.0** | *Jan 2024 - Dec 2025* (Graduated)
 
 **Relevant Coursework:**  
 Neural Networks & Deep Learning · Machine Learning · Cloud Computing · Software Engineering · Object-Oriented Design · Database Systems · Design & Analysis of Algorithms
@@ -323,55 +329,14 @@ Bachelor of Science in Computer Science & Information Technology | **GPA: 3.89/4
 
 ---
 
-## GitHub Stats & Activity
-
-<!-- START_SECTION:stats -->
-
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aabhiyann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aabhiyann&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabhiyann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
-</div>
-
-<!-- END_SECTION:stats -->
-
----
-
-## Currently Learning & Open To
-
-**🔭 Currently working on:**
-- Graduating from GWU (Dec 2025)
-- Teaching algorithms to 60+ graduate students
-- Building ML-powered cloud applications
-
-**🌱 Currently learning:**
-- Advanced MLOps and model deployment patterns
-- Kubernetes for container orchestration
-- System design for ML at scale
-
-**💬 Ask me about:**
-- Building RAG applications from scratch
-- ML model deployment and monitoring
-- Full-stack development with React/FastAPI
-- Teaching algorithms and data structures
-- Photography and creative outlets for engineers
-
-**👯 Looking to collaborate on:**
-- Open-source ML/AI projects
-- Cloud-native applications
-- Production-ready RAG systems
-
----
-
 ## Beyond Code
 
 When I'm not debugging or training models, I'm behind a camera capturing people, streets, and details most folks scroll past.
 
 <div align="center">
+  <a href="https://abhiyansainju.com/photography">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/abhiyan.sainju/">
     <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -395,7 +360,7 @@ When I'm not debugging or training models, I'm behind a camera capturing people,
         <li>ML/AI Engineer</li>
         <li>Cloud/Data Engineer</li>
       </ul>
-      <p><b>Start Date:</b> January 2026 (graduating Dec 2025)<br>
+      <p><b>Start Date:</b> Available immediately (graduated Dec 2025)<br>
       <b>Location:</b> US-based or remote-friendly</p>
     </td>
     <td valign="top" width="50%">
@@ -458,5 +423,22 @@ When I'm not debugging or training models, I'm behind a camera capturing people,
   <br>
   <i>Thanks for stopping by! Whether you're a recruiter, engineer, or just a curious dev — feel free to reach out.</i>
   <br><br>
-  <b>✨ Currently open to Full-Time Software/ML Engineering roles starting Jan 2026 ✨</b>
+  <b>✨ Currently open to Full-Time Software/ML Engineering roles ✨</b>
 </div>
+
+---
+
+## GitHub Stats & Activity
+
+<!-- START_SECTION:stats -->
+
+<div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=aabhiyann&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aabhiyann&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabhiyann&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="95%" />
+</div>
+
+<!-- END_SECTION:stats -->
